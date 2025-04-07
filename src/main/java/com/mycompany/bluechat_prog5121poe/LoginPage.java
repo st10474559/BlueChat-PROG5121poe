@@ -59,7 +59,6 @@ public class LoginPage implements ActionListener{
     frame.setSize(420,420);
     frame.setLayout(null);
     frame.setVisible(true);
-    
        
    }
    
