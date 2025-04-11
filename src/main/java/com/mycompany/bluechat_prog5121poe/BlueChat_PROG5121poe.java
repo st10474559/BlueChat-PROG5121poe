@@ -14,6 +14,7 @@ public class BlueChat_PROG5121poe {
         IDandPasswords idandPasswords = new IDandPasswords();
         
         LoginPage loginPage = new LoginPage(idandPasswords.getLoginInfo());
+        
     }
  }
 

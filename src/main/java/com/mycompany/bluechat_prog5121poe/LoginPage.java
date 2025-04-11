@@ -16,7 +16,7 @@ import javax.swing.JPasswordField;
 import javax.swing.JTextField;
 /**
  *
- * @author manyi
+ * @author st10474559(Ntivo Carl Manyike)
  */
 public class LoginPage implements ActionListener{
     

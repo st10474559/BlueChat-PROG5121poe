@@ -6,7 +6,7 @@ package com.mycompany.bluechat_prog5121poe;
 import java.util.HashMap;
 /**
  *
- * @author manyi
+ * @author st10474559(Ntivo Carl Manyike)
  */
 public class IDandPasswords {
     
